@@ -1,0 +1,10 @@
+city,temp,windspeed,event
+Mumbai,32c,6MPh,Rain
+Mumbai,-9999,9,Sunny
+Mumbai,28F,,Snow
+Paris,-9999,7,no event
+Paris,32,-9999,Rain
+Paris,-9999,-9999,Sunny
+Delhi,34,8,no event
+Delhi,40,-9999,Cloudy
+Delhi,-9999,12,Sunny
